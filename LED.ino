@@ -1,6 +1,4 @@
 
-// Creation d'une constante
-
 #define LED 9
 #define LED1 10
 
